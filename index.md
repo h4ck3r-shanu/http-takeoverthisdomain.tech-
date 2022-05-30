@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Took over by Technical Gladiator
 
 You can use the [editor on GitHub](https://github.com/h4ck3r-shanu/technicalgladiator.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
